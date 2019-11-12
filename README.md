@@ -28,6 +28,8 @@ Get into pairs and choose one of the following to research:
 - Decorator
 - Factory
 - Observer
+- Command
+- Iterator
 
 You should be able to answer these questions:
 
