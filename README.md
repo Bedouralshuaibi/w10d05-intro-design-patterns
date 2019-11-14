@@ -35,6 +35,5 @@ You should be able to answer these questions:
 
 - How does this design pattern work?
 - Why do we use it? What benefits does it provide?
-- What does it look like in Java?
 
 Take 20 minutes to do some research. Be prepared to share your findings with the class.
